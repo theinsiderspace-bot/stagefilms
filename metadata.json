@@ -1,0 +1,6 @@
+{
+  "name": "Stage Films & Creator Portal",
+  "description": "Stage Films website featuring the Hulu Production. New York cinematic catalog, trailers, release hub, and a secure film creator dashboard to add, manage, and pitch film content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
